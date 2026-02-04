@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I’m Samriddhi, I am the writer behind *Unprompted*, the blog you’re reading. 
 
-I am a product and marketing professional, passionate about building mission-driven tech and using digital tools for social good. I currently drive GTM and marketing at CauseCircle, a digital storytelling platform for nonprofits.
+I am a product and marketing professional, passionate about building mission-driven tech and using digital tools for social good. I currently drive GTM and marketing at CauseCircle (by Content.One CMS), a digital storytelling platform for nonprofits.
 
 I mostly write at the intersection of tech, culture, and impact — but I’m not big on boxes. This space is where I want to document what I’m learning, what I’m questioning, or what I can’t stop thinking about.
 
