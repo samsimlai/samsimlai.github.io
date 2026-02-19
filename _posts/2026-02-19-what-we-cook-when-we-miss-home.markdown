@@ -7,7 +7,7 @@ permalink: /what-we-cook-when-we-miss-home
 ---
 The first time I cooked *chicken er jhol* (Bengali chicken curry) alone in my new apartment, in a new town in a new country, it arrived at the table ferociously spicy and unapologetically watery - choices made deliberately, if not wisely. As a lifelong advocate for more *jhol* (broth) with everything, I wanted heat, chicken and soupiness with the right amount of rice in every bite. Perhaps it was a reactive correction to the food I had encountered so far in Seattle, which - through my own unfamiliarity with the ‘right’ orders back then - had felt oddly muted or bland. I wasn’t trying to cook ‘well’. I was cooking in defense of comfort.
 
-## Cooking in Defense of Comfort
+## Cooking in defense of comfort
 For someone who considers herself a good cook, my first attempt at *chicken er jhol* in Seattle was quietly dispiriting. I wondered whether this was what my cooking would become in a new city shaped by constraint - whether I would keep chasing *jhol* and never quite recreate what had lived back home. It has to be light, fragrant, brothy, with a welcome sharpness from the mustard oil. Where would I find it if I don't cook it? Seattle had no Bengali food to serendipitously stumble upon.
 
 Well, I kept trying, almost religiously, to recreate the exactness I associate with the version I ate at home in India. *Chicken er jhol* and *bhaat*, was a dish as familiar as breath because it is Tuesday food, mundane food, sometimes sick food with green papayas and carrots tossed in - and essentially not reserved for special occasions.
@@ -24,7 +24,7 @@ Sometimes, almost like magic, a single ingredient makes the whole dish sing like
 
 Nothing much changes, and yet everything does. The shift is subtle, but unmistakable. I call this the **Shallot Theory** and I will explain more in a second.
 
-## The Shallot Theory: That One Magic Ingredient
+## The Shallot Theory: That one magic ingredient
 A dear friend of mine who grew up in Indonesia, who now lives in the U.S. and is an exceptional cook, once told me that for him, that ingredient was shallots. Red onions in the US, he said, never quite behaved the same way as the onions we grew up with in South Asia. They were too sharp, unwilling to soften on their own terms. Shallots, when he could find them, melted into the food the way he remembered, much more amenable than red onions; lending the deeper, aromatic sweetness that Indonesian spice pastes depend on - where garlic and shallots form the foundation for slow-cooked dishes like *rendang*. 
 
 One evening, he invited me over for dinner and cooked a *rendang* using the shallots. It was the best rendang I have ever had, and one of the best meals I can remember eating. I have since realised shallots as a replacement for onions do their job beautifully in South and Southeast Asian cooking, in many immigrants kitchens, at least in the United States. They are rarely the star. But they are the foundation; the ingredient that teaches you that flavor is less about spectacle and more about structure.
@@ -33,7 +33,7 @@ Conversely, I’ve seen a dish survive a single key ingredient change without lo
 
 It should not have worked, especially for *chaat* purists from the state of Gujarat and Bengal. And yet it did. The tanginess, spice and sweetness from the *tamarind chutney*, the *mint chutney*, *garlic chutney*, the cooling dahi, the crunch of sev: every essential note was still present. The base had changed, but the logic of the dish held. It tasted beautiful. More than that, it was satisfying in the way street food is meant to be: generous, playful, and blissfully unconcerned with correctness.
 
-## What Is Authenticity, Really?
+## What is authenticity, really?
 What stayed with me about both moments was not just the cleverness of the substitutions, but what they revealed. Food, it turns out, has a form and it has a structure, and sometimes the structure matters more than the shape. If a dish can shift, lose one element, swap another, and come close without being quite what you’d find back home, how much does ‘authenticity’ matter?
 
 For a long time, I was devoted to authenticity without putting much thought into it. I chased the “right” ingredients with an instinctive desire to get as close as possible to the foods and cultures I loved, or was learning about. As a home cook, and as someone who tries local dishes obsessively while traveling, I believed that trying to reproduce a taste faithfully was a way of paying attention and recreating deliciousness. Getting it right felt like a form of listening and cooking prowess. If I could hold the flavor steady, I could hold the memory intact, honor it with the seriousness it deserved.
@@ -42,14 +42,14 @@ But somewhere between cooking in a new country, enjoying warm meals offered by f
 
 Almost without noticing, I stopped chasing authenticity and began paying attention to diaspora cooking as living history: warm, inventive, and extremely delicious.
 
-## Belonging without Standing Still: Miami and the Cuban Sandwich
+## Belonging without standing still: Miami and the Cuban sandwich
 Recently, when I traveled to Miami, I sought out the textbook Cuban sandwich at *Sanguich*, which is as close to canonical as the classic Cuban sandwich can be. I loved it. I also loved a Cuban-inspired version at Tinta Y Café, layered with chicken and Miami-Heat spicy sauce. 
 
 Both tasted right, tasted delicious, and both told the truth. One carried the memory of early Cuban migrants rebuilding life with familiar foods, a classic Cuban sandwich, in a city that was once unfamiliar and now home. The other Cuban sandwich, with the Miami hot sauce, perhaps reflects what happens after generations settle in, get shaped by changing neighborhoods, and the proximity of other immigrant and resident communities. Together, they traced how Miami’s Cuban food culture has learned to belong without standing still.
 
 Migration, after all, is not a side plot in food culture. It is the method. Recipes move the way people do: imperfectly, unevenly, carrying memory, joy, survival and improvisation in equal measure. 
 
-## Indo-Chinese Cuisine in India: The Food I Always Thought Was Ours and Is Ours
+## Indo-Chinese cuisine in India: The food I always thought was ours and is ours
 Perhaps Indo-Chinese cuisine, credited largely to be born in Kolkata, is one of the clearest illustrations of this; and one I speak about with ease because I come to it not as a distant observer, but as a Bengali girl who grew up loving it. My relationship to Indo-Chinese food was shaped less by scholarship than by how often we ate it: late dinners in *Tangra*, family negotiations over whether to order from *Kim Fa* or *Mainland China* or the Hakka noodle shop just around the corner, and a shared certainty that chili chicken was never just sauteed chilies and chicken - it had to be done properly. Everyone had an opinion about the cuisine. Everyone believed theirs was correct. 
 
 This was because no one in my family treated the food as a novelty. It was as ordinary to us and as Indian to us as naan or idli; all things my family cooked at home without ceremony. I did not grow up thinking Indo-chinese was hybrid or experimental. I grew up thinking it was ours.
