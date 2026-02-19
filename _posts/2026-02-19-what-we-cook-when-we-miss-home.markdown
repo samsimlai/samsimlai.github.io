@@ -1,12 +1,19 @@
 ---
-layout: post
 title: "What We Cook When We Miss Home"
 date: 2026-02-19
+image: /assets/ghibli-header.jpg
+keywords: food history, food and cultural, food essay, food illustrator
+permalink: /what-we-cook-when-we-miss-home
 ---
+
 The first time I cooked chicken er jhol (chicken curry in Bengali) alone in my new apartment, in a new town in a new country, it arrived at the table ferociously spicy and unapologetically watery - choices made deliberately, if not wisely. As a lifelong advocate for more jhol with everything, I wanted heat, chicken and soupiness with the right amount of rice in every bite. Perhaps it was a reactive correction to the food I had encountered so far in Seattle, which - through my own unfamiliarity with the ‘right’ orders back then - had felt oddly muted or bland. I wasn’t trying to cook ‘well’. I was cooking in defense of comfort.
+
 For someone whose food people usually enjoy eating, at first my first chicken er jhol admittedly felt quietly dispiriting. I wondered whether this was what my cooking would become in a new city shaped by constraint - whether I would keep chasing jhol and never quite recover what had lived back home. It has to be light, fragrant, brothy, with a welcome sharpness from the mustard oil. Where would I find it if I don't cook it? Seattle had no Bengali food to stumble upon, no casual encounters with bhaat and jhol that might have steadied me.
+
 Well, I kept trying, almost religiously, to recreate the exactness I associate with the version I ate at home in India. Chicken er jhol and bhaat, was a dish as familiar as breath because it is Tuesday food, mundane food, sometimes sick food with green papayas and carrots tossed in - and essentially, not reserved for special occasions.
+
 The dish wasn’t good the first few times but it got there eventually. At all times though, it did carry the outline of what I knew: the looseness of the gravy, the heat, the smell of mustard oil, the tenderness of the chicken. Even when the balance was off, it was close enough to feel legible - to remind me that familiarity does not require perfection, only recognition.
+
 This is what comfort food actually is, though we often talk about it as a category - soups, stews, carbs, warm bowls. In reality, comfort is not a genre, it is more of a private archive, built slowly from memory and senses: the sound of spices tempering in hot oil, a mother’s cooking quirks and love tucked into plates, steam rising from a pan that smells exactly right, the sizzle and aroma of onions caramelizing patiently, of chhaunk. Comfort lives not in correctness, but in recognition.
 I’ve realized that for those of us who move across countries, across languages, across social worlds, this archive becomes harder to maintain. Ingredients disappear into inconvenient grocery runs. Measurements lose meaning. Substitutions become unavoidable. In immigrant kitchens, continuity, and what we often shorthand as “authenticity”, comes at a price.
 We manage it in our own ways. In a South Asian household living close to a H-Mart, paneer becomes tofu. Desi green chilies might become serrano peppers or thai green chillies, if you’re lucky. The spice brand you trust simply isn’t on the shelf in your new city, so you buy something else with some familiar ingredients, similar color and a different soul. The dish hits some marks. It satisfies. And yet you can feel what is missing because your body, your sight, your senses have learned this dish too well to be deceived.
