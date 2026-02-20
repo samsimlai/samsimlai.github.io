@@ -7,7 +7,6 @@ permalink: /what-we-cook-when-we-miss-home
 ---
 The first time I cooked *chicken er jhol* (Bengali chicken curry) alone in my new apartment, in a new town in a new country, it arrived at the table ferociously spicy and unapologetically watery - choices made deliberately, if not wisely. As a lifelong advocate for more *jhol* (broth) with everything, I wanted heat, chicken and soupiness with the right amount of rice in every bite. Perhaps it was a reactive correction to the food I had encountered so far in Seattle, which - through my own unfamiliarity with the ‘right’ orders back then - had felt oddly muted or bland. I wasn’t trying to cook ‘well’. I was cooking in defense of comfort.
 
-## Cooking in defense of comfort
 For someone who considers herself a good cook, my first attempt at *chicken er jhol* in Seattle was quietly dispiriting. I wondered whether this was what my cooking would become in a new city shaped by constraint - whether I would keep chasing *jhol* and never quite recreate what had lived back home. It has to be light, fragrant, brothy, with a welcome sharpness from the mustard oil. Where would I find it if I don't cook it? Seattle had no Bengali food to serendipitously stumble upon.
 
 Well, I kept trying, almost religiously, to recreate the exactness I associate with the version I ate at home in India. *Chicken er jhol* and *bhaat*, was a dish as familiar as breath because it is Tuesday food, mundane food, sometimes sick food with green papayas and carrots tossed in - and essentially not reserved for special occasions.
