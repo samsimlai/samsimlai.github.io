@@ -95,3 +95,11 @@ To my astonishment (and alarm), it worked. The tomatoes and coconut milk brought
 What we cook when we miss home is rarely perfect. Sometimes it tastes exactly like memory and sometimes it is simply comfort in a bowl. Born despite constraint, or because of it. 
 
 But it is rarely just authenticity. It is, more interestingly, history, happening in real time, in kitchens that refuse to stop belonging.
+
+<hr style="border: none; border-top: 1px solid #eee; margin: 2em 0;" />
+
+Author’s note: *This blog is still a work-in-progress, so [if you’d like to subscribe, here’s a quick Google Form](https://docs.google.com/forms/d/1kENvPqBP1ybh6s-6N4rlubuBPe17OXe3G3MGOiuvv-k/preview). If this piece resonated (or provoked any thoughts at all), I’d [love your feedback](https://docs.google.com/forms/d/1kENvPqBP1ybh6s-6N4rlubuBPe17OXe3G3MGOiuvv-k/preview). It helps me know whether to keep writing more like this. Deeply appreciated.*
+
+<hr style="border: none; border-top: 1px solid #eee; margin: 2em 0;" />
+
+*<small>Disclaimer: The views and opinions expressed in this blog post are solely those of the author and do not necessarily reflect the official policy or position of any other agency, organization, employer, or company. Certain examples of people may be used within this blog post. These examples are for illustrative purposes only, and any resemblance to actual persons, living or dead, is purely coincidental. The information provided in this blog post is for general informational purposes only. The author makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the blog or the information, products, services, or related graphics contained on the blog for any purpose. Any reliance you place on such information is therefore strictly at your own risk.</small>*
