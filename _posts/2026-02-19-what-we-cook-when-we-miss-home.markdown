@@ -1,7 +1,7 @@
 ---
 title: "What We Cook When We Miss Home"
 date: 2026-02-19
-image: /assets/what-you-cook-header.png
+image: /assets/wwc-header.png
 keywords: food history, food and cultural, food essay, food illustrator
 permalink: /what-we-cook-when-we-miss-home
 ---
@@ -32,10 +32,12 @@ Conversely, I’ve seen a dish survive a single key ingredient change without lo
 
 It should not have worked, especially for *chaat* purists from the state of Gujarat and Bengal. And yet it did. The tanginess, spice and sweetness from the *tamarind chutney*, the *mint chutney*, *garlic chutney*, the cooling dahi, the crunch of sev: every essential note was still present. The base had changed, but the logic of the dish held. It tasted beautiful. More than that, it was satisfying in the way street food is meant to be: generous, playful, and blissfully unconcerned with correctness.
 
-![chaat purists from Gujarat and Bengal](/assets/chaat.png)
+![chaat purists from Gujarat and Bengal](/assets/chaat-purist.png)
 
 ## What is authenticity, really?
 What stayed with me about both moments was not just the cleverness of the substitutions, but what they revealed. Food, it turns out, has a form and it has a structure, and sometimes the structure matters more than the shape. If a dish can shift, lose one element, swap another, and come close without being quite what you’d find back home, how much does ‘authenticity’ matter?
+
+![The structure matters more than the shape](/assets/food-shape.png)
 
 For a long time, I was devoted to authenticity without putting much thought into it. I chased the “right” ingredients with an instinctive desire to get as close as possible to the foods and cultures I loved, or was learning about. As a home cook, and as someone who tries local dishes obsessively while traveling, I believed that trying to reproduce a taste faithfully was a way of paying attention and recreating deliciousness. Getting it right felt like a form of listening and cooking prowess. If I could hold the flavor steady, I could hold the memory intact, honor it with the seriousness it deserved.
 
@@ -48,7 +50,7 @@ Recently, when I traveled to Miami, I sought out the textbook Cuban sandwich at 
 
 Both tasted right, tasted delicious, and both told the truth. One carried the memory of early Cuban migrants rebuilding life with familiar foods, a classic Cuban sandwich, in a city that was once unfamiliar and now home. The other Cuban sandwich, with the Miami hot sauce, perhaps reflects what happens after generations settle in, get shaped by changing neighborhoods, and the proximity of other immigrant and resident communities. Together, they traced how Miami’s Cuban food culture has learned to belong without standing still.
 
-![Sandwiches of Miami](/assets/cuban.png)
+![Sandwiches of Miami](/assets/cuban-sandwich.png)
 
 Migration, after all, is not a side plot in food culture. It is the method. Recipes move the way people do: imperfectly, unevenly, carrying memory, joy, survival and improvisation in equal measure. 
 
