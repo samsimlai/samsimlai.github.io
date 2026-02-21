@@ -1,7 +1,7 @@
 ---
 title: "What We Cook When We Miss Home"
 date: 2026-02-19
-image: /assets/wwc-header.png
+image: /assets/wwc-image.jpg
 keywords: food history, food and cultural, food essay, food illustrator
 permalink: /what-we-cook-when-we-miss-home
 ---
